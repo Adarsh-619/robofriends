@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Adarsh2805-cmd/robofriends/static/css/main.4d18a7e2.chunk.css",
+    "main.js": "/Adarsh2805-cmd/robofriends/static/js/main.622c3db9.chunk.js",
+    "main.js.map": "/Adarsh2805-cmd/robofriends/static/js/main.622c3db9.chunk.js.map",
+    "runtime-main.js": "/Adarsh2805-cmd/robofriends/static/js/runtime-main.ef8b4261.js",
+    "runtime-main.js.map": "/Adarsh2805-cmd/robofriends/static/js/runtime-main.ef8b4261.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Adarsh2805-cmd/robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/Adarsh2805-cmd/robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/Adarsh2805-cmd/robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/Adarsh2805-cmd/robofriends/index.html",
+    "precache-manifest.f153c64b3b5b43a1764e79b0e50116b4.js": "/Adarsh2805-cmd/robofriends/precache-manifest.f153c64b3b5b43a1764e79b0e50116b4.js",
+    "service-worker.js": "/Adarsh2805-cmd/robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Adarsh2805-cmd/robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4d18a7e2.chunk.css.map": "/Adarsh2805-cmd/robofriends/static/css/main.4d18a7e2.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/Adarsh2805-cmd/robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Adarsh2805-cmd/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef8b4261.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.4d18a7e2.chunk.css",
+    "static/js/main.622c3db9.chunk.js"
+  ]
+}
